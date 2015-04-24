@@ -1,4 +1,4 @@
-# cosine-similarity
+# cosine-similarity-python
 document=["I am doing python program on cosine similarity because i want to learn python program",
           "cosine similarity program on python is very hard",
           "i am done with it eureka"]
